@@ -1,4 +1,4 @@
-# Insurance-predction
+# Insurance-prediction Model
 Insurance Prediction Model
 This repository contains code for predicting insurance costs using machine learning techniques. The goal is to build a model that accurately estimates insurance premiums based on various features such as age, gender, BMI, number of children, smoking status, and region.
 
